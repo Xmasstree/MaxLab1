@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
- 
+ //
            string a = Console.ReadLine();
            if(a.Length%2 == 0)
             {
